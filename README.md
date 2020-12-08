@@ -12,8 +12,8 @@ Rep+ is an simple web scraper that needs an URL or ID64 to search for in the [St
 First off, you have to have python installed, after that, install the latest version of the [chromedriver](https://chromedriver.chromium.org/home) unzip the file, put it where you want (just remember the directory, we will need that later), now you'll need to add the chromedriver to your PATH.
 # Instalation
 ## Windows Users: 
-install [chromedriver](https://chromedriver.chromium.org/home)
-follow [this](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/) tutorial to modify the PATH, add the chromedriver to user & system PATH!
+install [chromedriver](https://chromedriver.chromium.org/home) and
+follow [this](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/) tutorial to modify the PATH | add the chromedriver to USER & SYSTEM PATH!
 ## Linux Users:
-install [chromedriver](https://chromedriver.chromium.org/home)
-add chromedriver to your path: `export PATH=$PATH:/path/to/driver/chrome-driver`
+install [chromedriver](https://chromedriver.chromium.org/home) and
+add chromedriver to your path: `export PATH=$PATH:/path/to/driver/chrome-driver
